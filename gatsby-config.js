@@ -1,6 +1,19 @@
 module.exports = {
   siteMetadata: {
-    title: "tenzin.cv",
+    title: "Tenzin Namgyal",
+    description: "CV of Tenzin Namgyal",
+    locale: "en",
   },
-  plugins: ["gatsby-plugin-sass"],
+  plugins: [
+    {
+      resolve: "@wkocjan/gatsby-theme-intro",
+      options: {
+        basePath: "/",
+        contentPath: "content/",
+        showThemeLogo: true,
+        theme: "classic",
+      },
+    },
+    "gatsby-plugin-sass"
+  ],
 };
