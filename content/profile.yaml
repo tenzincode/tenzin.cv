@@ -3,16 +3,14 @@
   name: Tenzin Namgyal
   profession: Web Developer
   image: images/profile.jpg
-  location: New York, USA
+  location: Montreal, Canada
   relocation: true
-  company: Atomic Studio
+  company: MindGeek
   for_hire: true
-  focus: Learning Gatsby
+  focus: Learning React
   focus_url: https://gatsbyjs.org
   about: |
-    Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
-
-    User generated content in real-time will have multiple touchpoints for offshoring. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+    Experienced web developer with a demonstrated history in the industry. Skilled in the latest web technologies and methodologies with a focus on HTML5 Video Streaming. Strong engineering professional with a Bachelors of Science in Mathematics from McGill University and Diploma in Web Programming from Concordia University. 
   skills:
     - JavaScript
     - HTML / CSS
