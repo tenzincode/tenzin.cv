@@ -14,11 +14,11 @@
   skills:
     - JavaScript
     - HTML / CSS
-    - Ruby on Rails
+    - Command Line
   tools:
     - React
     - VSCode
-    - Gatsby
+    - Nodejs
   budget:
     currency: $
     min: 5
