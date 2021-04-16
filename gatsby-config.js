@@ -12,7 +12,7 @@ module.exports = {
                 basePath: "/",
                 contentPath: "content/",
                 showThemeLogo: true,
-                theme: "classic",
+                theme: "bright-green",
             },
         },
     ],
