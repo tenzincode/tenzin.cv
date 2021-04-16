@@ -1,0 +1,26 @@
+- profile:
+  initials: TYN
+  name: Tenzin Namgyal
+  profession: Lead Web Developer
+  image: images/profile.jpg
+  location: Montreal, Canada
+  relocation: true
+  company: MindGeek
+  for_hire: true
+  focus: Learning React
+  focus_url: https://reactjs.org/
+  about: |
+    Experienced web developer with a demonstrated history in the industry. Skilled in the latest web technologies and methodologies with a focus on HTML5 Video Streaming. Strong engineering professional with a Bachelors of Science in Mathematics from McGill University and Diploma in Web Programming from Concordia University.
+  skills:
+    - ECMAScript 6
+    - HTML / CSS
+    - Node.js
+  tools:
+    - VSCode
+    - Node.js
+    - Linux
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10

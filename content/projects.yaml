@@ -1,0 +1,27 @@
+- name: Marstemp
+  url: https://github.com/citizenofearth/marstemp
+  description: Marstemp gathers daily weather measurements (temperature, wind, pressure) from the surface of Mars at the Elysium Planitia, a flat smooth plain near Mars' equator.
+  status: in progress
+  tags:
+    - JavaScript
+    - React
+    - Nodejs
+  icon: github
+
+- name: EVELog
+  url: https://github.com/citizenofearth/eve
+  description: Musings on the sci-fi space simulator, EVE Online
+  status: in progress
+  tags:
+    - JavaScript
+    - Nodejs
+  icon: github
+
+- name: Tenzin.ca
+  url: https://github.com/citizenofearth/tenzin.ca
+  description: Personal homepage
+  status: in progress
+  tags:
+    - JavaScript
+    - Nodejs
+  icon: github
