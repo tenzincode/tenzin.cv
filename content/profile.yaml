@@ -10,7 +10,19 @@
   focus: Learning React
   focus_url: https://reactjs.org/
   about: |
-    Experienced web developer with a demonstrated history in the industry. Skilled in the latest web technologies and methodologies with a focus on HTML5 Video Streaming. Strong engineering professional with a Bachelors of Science in Mathematics from McGill University and Diploma in Web Programming from Concordia University.
+    Experienced web developer with a demonstrated history in the industry. Skilled in the latest web technologies and methodologies with a focus on HTML5 video streaming and sitespeed optimization.
+
+    Education:
+      - Bachelor of Science in Mathematics from McGill University
+      - Diploma of Web Programming from Concordia University
+    
+    Interests:
+      - Coding
+      - Camping
+      - Cameras
+      - Cycling
+      - Mathematics
+      - Gardening
   skills:
     - ECMAScript 6
     - HTML / CSS
