@@ -13,6 +13,7 @@ module.exports = {
                 contentPath: "content/",
                 showThemeLogo: false,
                 theme: "bright-green",
+                icon: "content/images/favicon.ico"
             },
         },
     ],
