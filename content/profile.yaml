@@ -10,27 +10,23 @@
   focus: Learning React
   focus_url: https://reactjs.org/
   about: |
-    Experienced web developer with a demonstrated history in the industry. Skilled in the latest web technologies and methodologies with a focus on HTML5 video streaming and sitespeed optimization.
+    Experienced web developer with a demonstrated history in the industry. Skilled in the latest web technologies and methodologies with a focus on HTML5 video streaming, sitespeed optimization, and cross-platform compatibility.
 
     Education:
-      - Bachelor of Science in Mathematics from McGill University
+      - Bachelor of Science in Mathematics from (McGill University)[https://www.mcgill.ca/]
       - Diploma of Web Programming from Concordia University
     
-    Interests:
-      - Coding
-      - Camping
-      - Cameras
-      - Cycling
-      - Mathematics
-      - Gardening
+    Interests: coding, camping, cameras, cycling, mathematics, gardening
   skills:
     - ECMAScript 6
     - HTML / CSS
     - Node.js
   tools:
     - VSCode
-    - Node.js
-    - Linux
+    - TypeScript
+    - Sass / LESS
+    - Webpack / Gulp
+    - Jest
   budget:
     currency: $
     min: 5
