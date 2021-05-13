@@ -11,8 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@wkocjan/gatsby-theme-intro": "^2.0.0",
-    "gatsby": "^3.3.1",
+    "@wkocjan/gatsby-theme-intro": "^2.0.1",
+    "gatsby": "^3.5.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
