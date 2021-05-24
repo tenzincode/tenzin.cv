@@ -10,12 +10,18 @@
   focus: Learning React
   focus_url: https://reactjs.org/
   about: |
-    Experienced web developer with 8 years in the industry, 3 years as team lead. Skilled in the latest web technologies and methodologies with a focus on HTML5 video streaming, sitespeed optimization, and cross-platform compatibility.
+    Experienced web developer with 8 years in the industry, 3 years as team lead. Skilled in the latest web technologies and methodologies with a focus on JavaScript best practices, HTML5 video streaming, sitespeed optimization, and cross-platform compatibility. Strong engineering professional with a Bachelors of Science in Mathematics from McGill University and Diploma in Web Programming from Concordia University.
 
     Education:
       - Bachelor of Science in Mathematics from McGill University
       - Diploma of Web Programming from Concordia University
     
+    Coding:
+      - ECMAScript 6, HTML5, CSS3, Less, Sass, Responsive Design, Bootstrap, WordPress, Gatsby
+      - Git, SVN, NPM, Gulp, Webpack, ESLint, Jest, SonarQube, Bamboo
+      - Some professional experience with Vue, PWA, PHP, SQL, C#, C++, Java, SEO, MVC
+      - Learning React/Redux, D3.js, GraphQL, Node.js, DevOps
+
     Interests: coding, camping, cameras, cycling, mathematics, gardening
   skills:
     - ECMAScript 6

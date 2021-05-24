@@ -5,6 +5,10 @@ module.exports = {
         description: "CV of Tenzin Namgyal",
         locale: "en",
     },
+    flags: {
+        PRESERVE_WEBPACK_CACHE: true,
+        FAST_DEV: true
+    },
     plugins: [
         {
             resolve: "@wkocjan/gatsby-theme-intro",
