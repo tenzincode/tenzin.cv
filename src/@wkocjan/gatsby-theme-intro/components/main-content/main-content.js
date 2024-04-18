@@ -1,7 +1,6 @@
 import React from "react"
 import About from "@wkocjan/gatsby-theme-intro/src/components/about/about"
 import ContactForm from "@wkocjan/gatsby-theme-intro/src/components/contact-form/contact-form"
-import Projects from "@wkocjan/gatsby-theme-intro/src/components/projects/projects"
 import Skills from "@wkocjan/gatsby-theme-intro/src/components/skills/skills"
 import Summary from "@wkocjan/gatsby-theme-intro/src/components/summary/summary"
 import Tools from "@wkocjan/gatsby-theme-intro/src/components/tools/tools"
@@ -23,7 +22,6 @@ const MainContent = ({ formspreeEndpoint, history, projects, profile }) => {
 
       {profile.about && <About about={profile.about} />}
       <WorkHistory history={history} />
-      <Projects projects={projects} />      
       <ContactForm
         formspreeEndpoint={formspreeEndpoint}
         budget={profile.budget}

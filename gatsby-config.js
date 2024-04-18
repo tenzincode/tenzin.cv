@@ -4,6 +4,7 @@ module.exports = {
         title: "Tenzin Namgyal",
         description: "CV of Tenzin Namgyal",
         locale: "en",
+        formspreeEndpoint: "https://formspree.io/f/xpzkzbwb"
     },
     flags: {
         PRESERVE_WEBPACK_CACHE: true,
