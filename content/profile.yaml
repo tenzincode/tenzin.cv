@@ -1,18 +1,18 @@
 - profile:
   initials: TYN
   name: Tenzin Namgyal
-  profession: Staff Software Engineer
+  profession: Lead Platform Engineer
   image: images/profile.jpg
   location: Montreal, Canada
   relocation: false
-  company: Hopin - StreamYard
+  company: Flight Centre
   for_hire: true
   focus: Learning
   focus_url: https://github.com/citizenofearth
   about: |
     Passionate tech enthusiast with over a decade in the industry. Skilled in the latest web technologies and methodologies with a focus on TypeScript, HTML5 video streaming, site-speed optimization, accessibility, and cross-platform compatibility.
 
-    Seeking a dynamic web developer role where I can immerse myself in intriguing projects, continuously expand my skill set, and make meaningful contributions. Eager to join a team where innovation thrives and where my passion for learning and creativity can flourish.
+    Always seeking a dynamic engineering role where I can immerse myself in intriguing projects, continuously expand my skill set, and make meaningful contributions. Eager to join a team where innovation thrives and where my passion for learning and creativity can flourish.
 
     Education:
       - Bachelor of Science in Mathematics from McGill University
@@ -21,13 +21,13 @@
     Qualifications:
       - Languages: English, Tibetan, French
       - Environments: Linux (Debian, Arch), Windows, MacOS, Android, iOS
-      - Code: TypeScript, React, Vue, HTML5, CSS3, Sass, LESS, Responsive Design, PWA, PHP, SQL, C#, C++, Java
+      - Code: TypeScript, React, Vue, HTML5, CSS3, Sass, LESS, REST API, Responsive Design, PWA, PHP, SQL, C#, C++, Java
       - Testing: Jest, ESLint, Playwright, SonarQube
-      - CI/CD: GitHub Actions, CircleCI, Bamboo, JFrog
-      - Tools: Git, SVN, NPM, PNPM, Yarn, Webpack, Turbopack, Gulp, Husky, Docker, Vagrant
-      - Learning: Node.js, DevOps, Google Cloud Platform, Google BigQuery, Docker, Kubernetes, Terraform
+      - CI/CD: GitHub Actions, CircleCI, Bamboo, JFrog, DataDog, Argo
+      - Tools: Git, SVN, NPM, PNPM, Yarn, Webpack, Vite, Turbopack, Gulp, Husky, Docker, Vagrant, AI, DataGrip, Postman
+      - Learning: Node.js, Databases, DevOps, Google Cloud Platform, Docker, Kubernetes, Terraform, GoLang
 
-    Interests: Cycling, camping, hiking, yoga, mathematics, photography, gardening, permaculture, and EVE Online
+    Interests: Cycling, camping, hiking, yoga, pure mathematics, photography, gardening, permaculture
   skills:
     - TypeScript
     - React
@@ -37,7 +37,7 @@
     - GitHub
     - TypeScript
     - React
-    - Webpack
+    - Node
   budget:
     currency: $
     min: 5
