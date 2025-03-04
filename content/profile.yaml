@@ -2,10 +2,10 @@
   initials: TYN
   name: Tenzin Namgyal
   profession: Lead Platform Engineer
-  image: images/profile.jpg
+  image: images/profile.webp
   location: Montreal, Canada
   relocation: false
-  company: Flight Centre
+  company: FCM Travel
   for_hire: true
   focus: Growth
   focus_url: https://github.com/tenzincode
