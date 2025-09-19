@@ -7,37 +7,60 @@
   relocation: false
   company: FCM Travel
   for_hire: true
-  focus: Growth
+  focus: Building Scalable Web Applications
   focus_url: https://github.com/tenzincode
   about: |
-    Passionate tech enthusiast with over a decade in the industry.  Skilled in the latest web technologies and methodologies with a focus on TypeScript, HTML5 video streaming, developer experience (DevEx), site-speed optimization, accessibility (a11y), and cross-platform compatibility.  Strong engineering professional combined with a Bachelors in Pure and Applied Mathematics from McGill University.
+    Results-driven software engineer with over a decade of experience in designing and implementing robust web applications. Specialized in TypeScript, React, and modern web technologies, with a strong emphasis on performance optimization, accessibility, and seamless cross-platform experiences. Adept at leading development teams and delivering high-quality solutions that drive business growth and user satisfaction.
 
-    Education:
-      - Bachelor of Science in Pure and Applied Mathematics @ McGill University
-      - Diploma of Web Programming @ Concordia University
+    ## Professional Philosophy
+    I believe in writing clean, maintainable code and following best practices in software development. My approach combines analytical problem-solving skills from my mathematics background with practical software engineering experience to create efficient, scalable solutions.
 
-    Qualifications:
-      - Languages: English, Tibetan, French
-      - Environments: Linux (Debian, Arch), Windows, MacOS, Android, iOS
-      - Code: TypeScript, React, Vue, HTML5, CSS3, Sass, LESS, REST API, Responsive Design, PWA, PHP, SQL, C#, C++, Java
-      - Testing: Jest, ESLint, Playwright, SonarQube
-      - CI/CD: GitHub Actions, CircleCI, Bamboo, JFrog, DataDog, Argo
-      - Tools: Git, SVN, NPM, PNPM, Yarn, Webpack, Vite, Turbopack, Gulp, Husky, Docker, Vagrant, AI, DataGrip, Postman
-      - Learning: Node.js, Databases, DevOps, Google Cloud Platform, Docker, Kubernetes, Terraform, GoLang
+    ## Core Competencies
+    - **Frontend Development**: Expert in React, TypeScript, and modern JavaScript frameworks
+    - **Backend Systems**: Proficient in Node.js with experience in building RESTful APIs
+    - **Performance Optimization**: Specialized in site-speed optimization and responsive design
+    - **Quality Assurance**: Strong advocate for testing and code quality (Jest, Playwright, ESLint)
+    - **DevOps & Cloud**: Experience with CI/CD pipelines and cloud infrastructure (GCP, Docker, Kubernetes)
 
-    Interests: Cycling, camping, hiking, yoga, pure mathematics, photography, gardening, permaculture
+    ## Technical Expertise
+    - **Languages**: TypeScript, JavaScript, PHP, C#, Java, SQL
+    - **Frontend**: React, Vue, HTML5, CSS3, SASS/LESS, PWA
+    - **Backend**: Node.js, REST API development, Microservices
+    - **Databases**: MySQL, Google BigQuery, Database design & optimization
+    - **DevOps**: GitHub Actions, CircleCI, Docker, Kubernetes, Terraform
+    - **Tools**: VSCode, DataGrip, Git, Webpack, NPM/Yarn
+
+    ## Education
+    - **Bachelor of Science in Mathematics** - McGill University
+      - Focus on abstract algebra and mathematical modeling
+    - **Diploma of Web Programming** - Concordia University
+      - Intensive program covering full-stack web development
+
+    ## Currently Expanding My Skills In
+    - Advanced Node.js patterns and performance optimization
+    - Cloud architecture and serverless technologies
+    - Advanced container orchestration with Kubernetes
+    - Site reliability engineering principles
+
+    ## Personal Interests
+    When I'm not coding, you can find me exploring the great outdoors through cycling and hiking, practicing yoga for mindfulness, or diving into the strategic depths of EVE Online. I'm also passionate about photography, sustainable gardening, and the intersection of technology and environmental sustainability.
+
   skills:
     - TypeScript
     - React
-    - HTML5 Video
+    - Node.js
+    - Web Performance
+    - REST APIs
+    - Cloud Architecture
+    - Docker & Kubernetes
+    - Database Design
+
   tools:
     - VSCode
-    - GitHub
-    - TypeScript
-    - React
-    - Node
-  budget:
-    currency: $
-    min: 5
-    max: 30
-    default: 10
+    - DataGrip
+    - Docker
+    - Git/GitHub
+    - Webpack
+    - Jest
+    - Playwright
+    - Google Cloud Platform
