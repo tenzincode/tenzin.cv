@@ -6,7 +6,7 @@
   "scripts": {
     "build": "gatsby build",
     "clean": "gatsby clean",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public -r https://github.com/tenzincode/tenzin.cv.git",
     "start": "gatsby develop",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

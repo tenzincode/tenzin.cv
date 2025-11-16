@@ -64,3 +64,9 @@
     - Jest
     - Playwright
     - Google Cloud Platform
+
+  budget:
+    currency: $
+    min: 80
+    max: 150
+    default: 120
