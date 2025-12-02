@@ -12,38 +12,40 @@
   about: |
     Results-driven software engineer with over a decade of experience in designing and implementing robust web applications. Specialized in TypeScript, React, and modern web technologies, with a strong emphasis on performance optimization, accessibility, and seamless cross-platform experiences. Adept at leading development teams and delivering high-quality solutions that drive business growth and user satisfaction.
 
-    ## Professional Philosophy
+    > Professional Philosophy
     I believe in writing clean, maintainable code and following best practices in software development. My approach combines analytical problem-solving skills from my mathematics background with practical software engineering experience to create efficient, scalable solutions.
 
-    ## Core Competencies
-    - **Frontend Development**: Expert in React, TypeScript, and modern JavaScript frameworks
-    - **Backend Systems**: Proficient in Node.js with experience in building RESTful APIs
-    - **Performance Optimization**: Specialized in site-speed optimization and responsive design
-    - **Quality Assurance**: Strong advocate for testing and code quality (Jest, Playwright, ESLint)
-    - **DevOps & Cloud**: Experience with CI/CD pipelines and cloud infrastructure (GCP, Docker, Kubernetes)
+    > Core Competencies
+    - Frontend Development: React, TypeScript, and modern JavaScript frameworks
+    - Backend Systems: Node.js with experience in building RESTful APIs
+    - Performance Optimization: Specialized in site-speed optimization and responsive design
+    - Quality Assurance: Strong advocate for testing and code quality (Jest, Playwright, ESLint)
+    - DevOps & Cloud: CI/CD pipelines and cloud infrastructure (GCP, Docker, Kubernetes)
 
-    ## Technical Expertise
-    - **Languages**: TypeScript, JavaScript, PHP, C#, Java, SQL
-    - **Frontend**: React, Vue, HTML5, CSS3, SASS/LESS, PWA
-    - **Backend**: Node.js, REST API development, Microservices
-    - **Databases**: MySQL, Google BigQuery, Database design & optimization
-    - **DevOps**: GitHub Actions, CircleCI, Docker, Kubernetes, Terraform
-    - **Tools**: VSCode, DataGrip, Git, Webpack, NPM/Yarn
+    > Technical Expertise
+    - Languages: TypeScript, JavaScript, PHP, C#, Java, SQL
+    - Frontend: React, Vue, HTML5, CSS3, SASS/LESS, PWA
+    - Backend: Node.js, REST API development, Microservices
+    - Databases: MySQL, Google BigQuery, Database design & optimization
+    - DevOps: GitHub Actions, CircleCI, Docker, Kubernetes, Terraform
+    - Tools: VSCode, DataGrip, Git, Webpack, NPM/Yarn, Postman, Jira, DataDog, Retool, Mixpanel
 
-    ## Education
-    - **Bachelor of Science in Mathematics** - McGill University
-      - Focus on abstract algebra and mathematical modeling
-    - **Diploma of Web Programming** - Concordia University
-      - Intensive program covering full-stack web development
+    > Education
+    - Bachelor of Science in Mathematics - McGill University
+    - Focus on abstract algebra and mathematical modeling
 
-    ## Currently Expanding My Skills In
+    - Diploma of Web Programming - Concordia University
+    - Data structures, algorithms, and full-stack web development
+
+    > Currently Expanding My Skills In
     - Advanced Node.js patterns and performance optimization
     - Cloud architecture and serverless technologies
-    - Advanced container orchestration with Kubernetes
+    - Container orchestration with Kubernetes
     - Site reliability engineering principles
+    - Database design and optimization
 
-    ## Personal Interests
-    When I'm not coding, you can find me exploring the great outdoors through cycling and hiking, practicing yoga for mindfulness, or diving into the strategic depths of EVE Online. I'm also passionate about photography, sustainable gardening, and the intersection of technology and environmental sustainability.
+    > Personal Interests
+    When I'm not coding, you can find me exploring the great outdoors through cycling and hiking, practicing yoga for mindfulness, or diving into the strategic depths of EVE Online. I'm also passionate about photography, and sustainable gardening.
 
   skills:
     - TypeScript
